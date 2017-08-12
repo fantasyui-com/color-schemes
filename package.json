@@ -1,0 +1,20 @@
+{
+  "name": "color-schemes",
+  "version": "1.0.0",
+  "description": "Color Scheme Explorer (GUI Application)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasyui-com/color-schemes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fantasyui-com/color-schemes/issues"
+  },
+  "homepage": "https://github.com/fantasyui-com/color-schemes#readme"
+}
