@@ -1,7 +1,7 @@
 {
   "name": "color-schemes",
   "productName": "Color Schemes",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Color Scheme Explorer (GUI Application)",
   "main": "main.js",
   "scripts": {
